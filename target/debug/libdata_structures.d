@@ -1,0 +1,1 @@
+C:\Users\JoseLuiz\Documents\rust\data-structures\target\debug\libdata_structures.rlib: C:\Users\JoseLuiz\Documents\rust\data-structures\src\lib.rs C:\Users\JoseLuiz\Documents\rust\data-structures\src\list\linked_list.rs C:\Users\JoseLuiz\Documents\rust\data-structures\src\list\mod.rs C:\Users\JoseLuiz\Documents\rust\data-structures\src\tree\mod.rs
